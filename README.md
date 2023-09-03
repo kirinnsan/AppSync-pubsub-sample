@@ -42,5 +42,5 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ```
 pip install gql[all]
 ```
-
-client.pyを参照
+https://github.com/kirinnsan/AppSync-pubsub-sample/blob/main/client.py
+参照
